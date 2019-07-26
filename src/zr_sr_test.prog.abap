@@ -7,4 +7,6 @@ REPORT ZR_SR_TEST.
 
 WRITE 'Hello abapGit'.
 
-WRITE 'Hello
+WRITE 'Hello'.
+
+WRITE 'Hola!'.
